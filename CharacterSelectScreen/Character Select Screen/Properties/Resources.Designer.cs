@@ -63,6 +63,36 @@ namespace Character_Select_Screen.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _725566b1f3c9aaa0a8249e9b56167b64 {
+            get {
+                object obj = ResourceManager.GetObject("725566b1f3c9aaa0a8249e9b56167b64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap a936b04dd68120db14685ac8eaec2a61 {
+            get {
+                object obj = ResourceManager.GetObject("a936b04dd68120db14685ac8eaec2a61", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap City {
+            get {
+                object obj = ResourceManager.GetObject("City", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap female_Herbalist {
             get {
                 object obj = ResourceManager.GetObject("female_Herbalist", resourceCulture);

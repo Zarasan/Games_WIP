@@ -118,16 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="female_Miner" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\female_Miner.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="City" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\City.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="male_lumberjack" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\male_lumberjack.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="female_lumberjack" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\female_lumberjack.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="725566b1f3c9aaa0a8249e9b56167b64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\725566b1f3c9aaa0a8249e9b56167b64.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="female_Herbalist" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\female_Herbalist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="female_Miner" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\female_Miner.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="a936b04dd68120db14685ac8eaec2a61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a936b04dd68120db14685ac8eaec2a61.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
