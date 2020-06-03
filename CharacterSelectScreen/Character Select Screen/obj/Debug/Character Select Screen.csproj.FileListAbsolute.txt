@@ -1,0 +1,10 @@
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Character Select Screen.exe.config
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Character Select Screen.exe
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Character Select Screen.pdb
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.csprojAssemblyReference.cache
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character_Select_Screen.Form1.resources
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character_Select_Screen.Properties.Resources.resources
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.csproj.GenerateResource.cache
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.csproj.CoreCompileInputs.cache
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.exe
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.pdb
