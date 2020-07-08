@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TelefonskiImenik" Class="ImenikDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\TelefonskiImenik.mdf;Integrated Security=True" SettingsObjectName="AleksandarImenik.Properties.Settings" SettingsPropertyName="TelefonskiImenikConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Imenik" Member="Imeniks">
+    <Type Name="Imenik">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ime" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Prezime" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Grad" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Broj" Type="System.String" DbType="NVarChar(12) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

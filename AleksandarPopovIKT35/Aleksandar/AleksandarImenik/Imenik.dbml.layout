@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Imenik">
+  <DataContextMoniker Name="/ImenikDataContext" />
+  <nestedChildShapes>
+    <classShape Id="aad7db67-fc35-4a36-8c65-a469ab9278e6" absoluteBounds="2.125, 1.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ImenikDataContext/Imenik" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ba533b8-15d5-48b6-b3ef-e866315be91d" absoluteBounds="2.14, 2.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
