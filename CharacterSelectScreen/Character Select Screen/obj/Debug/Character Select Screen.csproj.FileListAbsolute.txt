@@ -2,7 +2,6 @@ C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectS
 C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Character Select Screen.exe
 C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Character Select Screen.pdb
 C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.csprojAssemblyReference.cache
-C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character_Select_Screen.Form1.resources
 C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character_Select_Screen.Properties.Resources.resources
 C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.csproj.GenerateResource.cache
 C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.csproj.CoreCompileInputs.cache
@@ -25,3 +24,13 @@ C:\Users\fredk\Documents\Projects\Games\Games_WIP\CharacterSelectScreen\Characte
 C:\Users\fredk\Documents\Projects\Games\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Character Select Screen.application
 C:\Users\fredk\Documents\Projects\Games\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.exe.manifest
 C:\Users\fredk\Documents\Projects\Games\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.application
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Character Select Screen.exe.manifest
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Character Select Screen.application
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character_Select_Screen.Fields.resources
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character_Select_Screen.Mine.resources
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character_Select_Screen.Start.resources
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character_Select_Screen.Village.resources
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.exe.manifest
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\obj\Debug\Character Select Screen.application
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Resources\Database1.mdf
+C:\Users\Tradiebot1\Documents\Projects\Github\Zarasan\Games_WIP\CharacterSelectScreen\Character Select Screen\bin\Debug\Resources\Database1_log.ldf

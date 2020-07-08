@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Player>
-  <Name>test</Name>
+  <Name>Karakter</Name>
   <Gender>Male</Gender>
-  <Profession>Herbalist</Profession>
-  <Money>0</Money>
-  <Experience>100</Experience>
-  <Level>1</Level>
-  <Avatar>A:\Downloads\OOPRPG-master\EZXQaCkXsAE-_Vq.jpg</Avatar>
+  <Profession>Miner</Profession>
+  <Money>690</Money>
+  <Experience>2200</Experience>
+  <Level>22</Level>
+  <Avatar>C:\Users\Tradiebot1\Downloads\light-15.png.png</Avatar>
 </Player>

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Character Select Screen.exe" size="9256416">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Character Select Screen.exe" size="9774048">
       <assemblyIdentity name="Character Select Screen" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pD854EJxrMbALd3+9Ti++uGQR2uTyO4DUmfWzUMoswQ=</dsig:DigestValue>
+        <dsig:DigestValue>MtvkEfqTvzGgnIx0fabu0aOdOF6RZykQ2Lh8wSoJdVE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -70,6 +70,24 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Database1.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0cx8sanLXLGePedDbaITXTgh1ewmEd4kvDqb0eikWYg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Database1_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>w0e24dYW/fRXc7GdJAAel6U+WzK0fkyHWUgiDvV3apY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
